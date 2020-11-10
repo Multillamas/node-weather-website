@@ -21,7 +21,7 @@ weatherForm.addEventListener('submit', (event) => {
   })
 })
 
-// NOTEs FROM THE COURSE:
+// NOTESs :
 
 console.log('client side javascript is loading') // The goal of this page is to fetch the forecast information from the http into our clien-side js
 // The api fetch is not a js nor is accessible by node. It is provided api by the browser
